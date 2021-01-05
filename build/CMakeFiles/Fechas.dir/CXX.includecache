@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/practicas/Practicas11_IB_EmiREstGon/1.Fechas/fecha.cc
+fecha.h
+/home/usuario/practicas/Practicas11_IB_EmiREstGon/1.Fechas/fecha.h
+
+/home/usuario/practicas/Practicas11_IB_EmiREstGon/1.Fechas/fecha.h
+iostream
+-
+string
+-
+
+/home/usuario/practicas/Practicas11_IB_EmiREstGon/1.Fechas/fechas.cc
+fechas.h
+/home/usuario/practicas/Practicas11_IB_EmiREstGon/1.Fechas/fechas.h
+fecha.h
+/home/usuario/practicas/Practicas11_IB_EmiREstGon/1.Fechas/fecha.h
+iostream
+-
+fstream
+-
+
+/home/usuario/practicas/Practicas11_IB_EmiREstGon/1.Fechas/fechas.h
+
