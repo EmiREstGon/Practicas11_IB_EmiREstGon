@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Racionales.dir/3.Racional/racional.cc.o CMakeFiles/Racionales.dir/3.Racional/racionales.cc.o  -o ../bin/Racionales 

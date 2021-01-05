@@ -12,21 +12,21 @@ set(CMAKE_CXX_FLAGS_DEBUG "-fsanitize=address -pedantic-errors -Wall -Wextra -DD
 set(CMAKE_CXX_FLAGS_RELEASE "-Wall")                                                            # Flags para versión fuera de producción
 
 # Source code
-include_directories("fecha/src" "racional/src" "complejos/src")
+include_directories("1.Fechas" "2.Complejos" "3.Racional")
 
 file(GLOB SrcFecha
-  "fechas/src/*.cc"
+  "1.Fechas/*.cc"
 )
 
 file(GLOB SrcComlejo
-  "complejos/src/*.cc"
+  "2.Complejos/*.cc"
 )
 
 file(GLOB SrcRacional
-  "racional/src/*.cc"
+  "3.Racional/*.cc"
 )
 
 # Ejecutables
-add_executable(fechas ${SrcFecha})
-add_executable(racionales ${SrcRacional})
+add_executable(Fechas ${SrcFecha})
 add_executable(complejo ${SrcComlejo})
+add_executable(Racionales ${SrcRacional})

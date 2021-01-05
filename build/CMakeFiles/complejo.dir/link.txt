@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/complejo.dir/2.Complejos/complejo.cc.o CMakeFiles/complejo.dir/2.Complejos/complejos.cc.o  -o ../bin/complejo 

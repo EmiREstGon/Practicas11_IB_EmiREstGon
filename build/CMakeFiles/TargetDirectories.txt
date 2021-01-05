@@ -1,0 +1,5 @@
+/home/usuario/practicas/Practicas11_IB_EmiREstGon/build/CMakeFiles/edit_cache.dir
+/home/usuario/practicas/Practicas11_IB_EmiREstGon/build/CMakeFiles/Racionales.dir
+/home/usuario/practicas/Practicas11_IB_EmiREstGon/build/CMakeFiles/Fechas.dir
+/home/usuario/practicas/Practicas11_IB_EmiREstGon/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/practicas/Practicas11_IB_EmiREstGon/build/CMakeFiles/complejo.dir
