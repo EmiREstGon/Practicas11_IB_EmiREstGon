@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Fechas.dir/1.Fechas/fecha.cc.o CMakeFiles/Fechas.dir/1.Fechas/fechas.cc.o  -o ../bin/Fechas 
